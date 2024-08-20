@@ -8,7 +8,7 @@
         /// </summary>
         public string Title { get;}
         /// <summary>
-        /// アーティスト名です
+        /// アーティスト名です！
         /// </summary>
         public string ArtistName { get;}
         /// <summary>

@@ -10,7 +10,7 @@
         /// <summary>
         /// アーティスト名
         /// </summary>
-        public string ArtistName { get; set; }
+        public string ArtistName { get;}
         /// <summary>
         /// 演奏時間（単位は秒）
         /// </summary>

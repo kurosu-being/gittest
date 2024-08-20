@@ -12,7 +12,7 @@
         /// </summary>
         public string ArtistName { get;}
         /// <summary>
-        /// 演奏時間（単位は秒）
+        /// 演奏時間（単位は秒です）
         /// </summary>
         public int Length { get;}
     }

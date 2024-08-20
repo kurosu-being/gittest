@@ -14,6 +14,6 @@
         /// <summary>
         /// 演奏時間（単位は秒）
         /// </summary>
-        public int Length { get; set; }
+        public int Length { get;}
     }
 }

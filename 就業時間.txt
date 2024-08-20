@@ -1,0 +1,8 @@
+start "" http://dev-ss/Nipo/control/ComCtl.php?actioncode=2001
+start "" https://bm-server.being.group/project/tboard/index/projectId/3501
+start "" https://ini5g.kinjirou-asp.jp/KBIG1811/KinjirouWeb/kinjirou/kwtop/kwtop.aspx?type=20001
+
+
+
+あああ
+

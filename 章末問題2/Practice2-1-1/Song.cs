@@ -6,7 +6,7 @@
         /// <summary>
         /// 歌のタイトル
         /// </summary>
-        public string Title { get; set; }
+        public string Title { get;}
         /// <summary>
         /// アーティスト名
         /// </summary>
